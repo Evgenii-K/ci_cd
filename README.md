@@ -1,0 +1,1 @@
+<img src="https://github.com/evgenii-k/ci_cd/workflows/deploy/badge.svg?branch=test">
